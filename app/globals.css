@@ -26,3 +26,14 @@ p{
   color: #222;
   font-weight: 600;
 }
+
+li{
+ width: 40%;
+ color: #222;
+ font-size: large;
+ font-weight: 800;
+}
+
+a{
+  width: 80%;
+}
